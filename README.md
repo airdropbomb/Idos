@@ -46,8 +46,7 @@ idOS BOT is an automated tool designed to daily check-in completion across multi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vonssy/Idos-BOT.git
-cd Idos-BOT
+git clone https://github.com/airdropbomb/Idos.git && cd Idos
 ```
 
 ### 2. Install Dependencies
