@@ -22,8 +22,8 @@
 
 idOS BOT is an automated tool designed to daily check-in completion across multiple accounts. It provides seamless offers robust proxy support for enhanced security and reliability.
 
-**🔗 Get Started:** [Register on idOS](https://app.idos.network?ref=6C701C16)  
-**🎁 Use My Code:** `6C701C16`
+**🔗 Get Started:** [Register on idOS](https://app.idos.network?ref=E65B9A1C)  
+**🎁 Use My Code:** `E65B9A1C`
 
 > **Important:** Connect new evm wallet.
 
